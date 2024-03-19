@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/YLgPymZ.jpeg)
+![Banner](https://i.imgur.com/3APwGte.png)
 # 💫 About Me:
 ---
 
