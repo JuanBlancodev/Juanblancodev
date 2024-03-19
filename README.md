@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy Juan Blanco</h1>
-<h3 align="center">Explorando el mundo del desarrollo web con entusiasmo y aprendizaje constante</h3>
+<h3 align="center">Me encuentro en la etapa de aprendizaje para convertirme en un desarollador web 😃</h3>
 
 ![Banner](https://i.imgur.com/YLgPymZ.jpeg)
+Me empecé a interesar por el desarrollo web en 2021 y desde entonces he estado aprendiendo sobre tecnologías para algún día poder ser un buen desarrollador web
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanblancodev&label=Profile%20views&color=0e75b6&style=flat" alt="juanblancodev" /> </p>
 
