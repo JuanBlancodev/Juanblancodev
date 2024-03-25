@@ -6,7 +6,7 @@
 # 💫 About Me:
 ---
 
-¡Hola! Soy Juan Fco. Blanco, un entusiasta del desarrollo web de 18 años en constante aprendizaje. Hace tres años descubrí mi pasión por el desarrollo web y desde entonces he estado inmerso en cursos, videos y proyectos personales para ampliar mis conocimientos. Aunque aún me queda mucho por aprender en áreas como buenas prácticas, algoritmos y optimización, siento que he avanzado significativamente.<br><br>Mi objetivo actual es convertirme en un desarrollador web competente, con la capacidad de aportar ideas innovadoras y lograr un crecimiento profesional sólido en una empresa.
+¡Hola! Soy Juan Fco. Blanco, un entusiasta del desarrollo web en constante aprendizaje. Hace tres años descubrí mi pasión por el desarrollo web y desde entonces he estado inmerso en cursos, videos y proyectos personales para ampliar mis conocimientos. Aunque aún me queda mucho por aprender en áreas como buenas prácticas, algoritmos y optimización, siento que he avanzado significativamente.<br><br>Mi objetivo actual es convertirme en un desarrollador web competente, con la capacidad de aportar ideas innovadoras y lograr un crecimiento profesional sólido en una empresa.
 
 ---
 # 📊 GitHub Stats:
